@@ -1,0 +1,1 @@
+create table CARS (id INT, make VARCHAR(20), model VARCHAR(30), isInGarage BOOLEAN);
